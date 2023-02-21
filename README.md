@@ -1,0 +1,2 @@
+# Ambrox
+My Static Website
